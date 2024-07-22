@@ -58,7 +58,3 @@ The repository contains the following files and directories:
 - `ppt/` - Directory containing a PowerPoint presentation summarizing the project findings.
 - `README.md` - This README file.
 
-## How to Use
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/pizza-sales-sql-project.git
