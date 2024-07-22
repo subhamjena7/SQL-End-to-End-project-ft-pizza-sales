@@ -58,3 +58,10 @@ The repository contains the following files and directories:
 - `ppt/` - Directory containing a PowerPoint presentation summarizing the project findings.
 - `README.md` - This README file.
 
+
+### PowerPoint Presentation
+Additionally, the repository includes a PowerPoint presentation summarizing the findings and insights from the project. You can find it in the `ppt/` directory.
+
+--- 
+
+Feel free to customize the repository link, your contact information, and any other details to suit your needs.
